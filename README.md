@@ -3,6 +3,9 @@ Fully Automatic Detection and Classification of Prosthetic Heart Valves or Annul
 
 ### **Description**
 
+Our Weights and Samples to infer are in the storage below:
+>'https://drive.google.com/drive/folders/18l7ylf5Ve_GxFZAVZRtCR2bT4hhsVQgj?usp=sharing'
+
 
 ```python
 pip install -r requirements.txt

@@ -4,7 +4,7 @@ Fully Automatic Detection and Classification of Prosthetic Heart Valves or Annul
 ### **Description**
 
 Our Weights and Samples to infer are in the storage below:
-> https://drive.google.com/drive/folders
+> https://drive.google.com/drive/folders/1cMMAyq9LsXSwmy2xor0-I02e93acNFbg?usp=sharing
 
 
 
